@@ -1,0 +1,19 @@
+.odd {
+    background-color: hsl(278, 100%, 86%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    background-color: oklab(67.351% 0.03047 -0.1498);
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: oklab(94.187% -0.08846 0.08981);
+    font-size: 24px;
+    font-weight: 700;
+}
