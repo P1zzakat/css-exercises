@@ -1,0 +1,13 @@
+.button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first {
+    background-color: oklab(33.289% 0 -0.00004 / 0.534);
+    color: white;
+}
+
+.second {
+    background-color: oklch(96.798% 0.21094 109.783 / 0.512);
+}
